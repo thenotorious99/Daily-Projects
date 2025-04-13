@@ -1,3 +1,3 @@
 # Here You can the see my daily Python Project
-1.Manipulating users - When You write your name
+1.Manipulating users 
 2.Analyze Text
